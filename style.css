@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #ffe5ec;
+}
+
+ul{
+    list-style: none;
+    margin: 15px;
+    padding: 25px;
+    position: fixed;
+    background-color: #f7cad0;
+    height: 100%;
+
+}
