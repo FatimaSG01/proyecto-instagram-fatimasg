@@ -1,6 +1,7 @@
 body{
     margin: 0;
     padding: 0;
+    width: 100%;
     background-color: #ffe5ec;
 }
 
@@ -13,6 +14,30 @@ ul{
     height: 100%;
     line-height: 50px;
 }
+
 .logo-instagram{
     line-height: 70px;
+}
+
+main{
+
+}
+    
+.main-part{
+
+}
+    
+
+.story-img div img{
+    width: 10px;
+    height: 10px;
+    border: solid;    
+
+}
+
+p{
+    font-family: sans-serif;
+    color: #ff477e; 
+    font-size: 10px; 
+    font-weight: bold;
 }
