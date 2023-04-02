@@ -11,5 +11,8 @@ ul{
     position: fixed;
     background-color: #f7cad0;
     height: 100%;
-
+    line-height: 50px;
+}
+.logo-instagram{
+    line-height: 70px;
 }
