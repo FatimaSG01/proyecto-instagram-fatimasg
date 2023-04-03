@@ -95,7 +95,7 @@ main .contenido{
 }
 main .sugerencias{
     grid-column: 8/11;
-    padding: 60px;
+    padding: 60px 30px;
 }
 .mi-usuario{
     display: flex;
@@ -135,6 +135,8 @@ main .sugerencias{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .sugerencias-titulo span{
     margin: 0;
@@ -152,6 +154,8 @@ main .sugerencias{
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
+    padding-bottom: 10px;
+    
 }
 .sug-users img{
     width: 50px;
@@ -174,5 +178,23 @@ main .sugerencias{
     color: #c9184a;
     font-weight: bold;
 }
-
-
+.txt-primera-parte a{
+    font-size: 10px;
+    text-decoration: none;
+    color: #ff8fa3;
+    font-weight: bold;
+}
+.txt-segunda-parte a{
+    font-size: 10px;
+    text-decoration: none;
+    color: #ff8fa3;
+    font-weight: bold;
+}
+.txt-tercera-parte i{
+    font-size: 11px;
+    color: #800f2f;   
+}
+.txt-tercera-parte span{
+    font-size: 11px;
+    color: #800f2f;
+}
