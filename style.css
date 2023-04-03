@@ -3,6 +3,7 @@ body{
     padding: 0;
     width: 100%;
     background-color: #ffe5ec;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 ul{
@@ -37,8 +38,44 @@ ul{
     text-align: center;
     
 }
+.post{
+    margin: 0 130px;
+}
+.primer-post{
+    width: 600px;
+}
+.parte-uno{
+    
+    display:flex ;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.parte-uno .username{
+    display:flex ;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.username img{
+    width: 35px;
+    height: 35px;
+    margin: 0 10px 0 0;
+}
 
-.story-img{
-    border-radius: 1%;
-    border-color: #ff4d6d;
+.parte-dos{
+    width: 100%;
+
+}
+.parte-dos img{
+    width: 100%;
+}
+.parte-tres{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+span{
+    font-weight: bold;
 }
