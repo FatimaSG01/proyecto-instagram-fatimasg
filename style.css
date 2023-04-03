@@ -52,6 +52,11 @@ ul{
 .stories .story-img img{
     width: 65px;
     height: 65px;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 56px;
+    border-color: #ff5d8f;
+
 }
 .post{
     margin: 0 190px;
@@ -103,6 +108,14 @@ ul{
 }
 span{
     font-weight: bold;
+}
+.parte-cuatro{
+    border-bottom: #ff5d8f;
+    border-width: 1px;
+    border-style: solid;
+    border-right: #ffe5ec;
+    border-left: #ffe5ec;
+    border-top: #ffe5ec;
 }
 .parte-cuatro .like{
     font-size: 17px;
