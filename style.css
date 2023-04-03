@@ -18,11 +18,22 @@ ul{
     border-color: #fff0f3;
     border-width: 0px 1px 0px 0px;
 }
+.funciones-menu i{
+    font-size: 25px;
+    color: #ff0a54;
+}
+.funciones-menu img{
+    width: 30px;
+    height: 30px;
+}
 
 .logo-instagram{
     line-height: 70px;
 }
-
+.logo-instagram i{
+    font-size: 30px;
+    color: #ff0a54;
+}
 .stories{
     width: 100%;
     max-width: 800px;
@@ -37,6 +48,10 @@ ul{
     color: #c9184a;
     text-align: center;
     
+}
+.stories .story-img img{
+    width: 65px;
+    height: 65px;
 }
 .post{
     margin: 0 190px;
@@ -59,6 +74,10 @@ ul{
     font-size: 18px;
     color: #800f2f;
 }
+.parte-uno i{
+    font-size: 25px;
+    color: #ff0a54;
+}
 .username img{
     width: 35px;
     height: 35px;
@@ -77,6 +96,10 @@ ul{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+}
+.parte-tres i{
+    font-size: 25px;
+    color: #ff0a54;
 }
 span{
     font-weight: bold;
