@@ -31,7 +31,7 @@ ul{
 
     display: flex;
     gap: 20px;
-    font-size: 8px;
+    font-size: 10px;
     font-family: sans-serif;
     font-weight: bold;
     color: #c9184a;
@@ -39,10 +39,10 @@ ul{
     
 }
 .post{
-    margin: 0 130px;
+    margin: 0 190px;
 }
 .primer-post{
-    width: 600px;
+    width: 500px;
 }
 .parte-uno{
     
@@ -56,6 +56,8 @@ ul{
     flex-direction: row;
     justify-content: flex-start;
     align-items: center;
+    font-size: 18px;
+    color: #800f2f;
 }
 .username img{
     width: 35px;
@@ -78,4 +80,8 @@ ul{
 }
 span{
     font-weight: bold;
+}
+.parte-cuatro .like{
+    font-size: 17px;
+    color: #800f2f;
 }
