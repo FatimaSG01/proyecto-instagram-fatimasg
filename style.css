@@ -85,3 +85,94 @@ span{
     font-size: 17px;
     color: #800f2f;
 }
+
+main{
+    display: grid;
+    grid-template-columns: repeat(10,1fr);
+}
+main .contenido{
+    grid-column: 1/8;
+}
+main .sugerencias{
+    grid-column: 8/11;
+    padding: 60px;
+}
+.mi-usuario{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;  
+}
+.mi-usuario a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #c9184a;
+    font-weight: bold;
+}
+.mi-usuario .contenido-left{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.mi-usuario img{
+    width: 75px;
+    height: 75px;
+    margin: 0 10px 0 0;
+}
+.mi-usuario .info span{
+    margin: 0;
+    font-size: 15px;
+    color: #800f2f;
+}
+.mi-usuario .info p{
+    margin: 0;
+    font-size: 13px;
+    color: #800f2f;
+}
+.sugerencias-parte-dos .sugerencias-titulo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.sugerencias-titulo span{
+    margin: 0;
+    font-size: 15px;
+    color: #ff8fa3;
+}
+.sugerencias-parte-dos .sugerencias-titulo a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #c9184a;
+    font-weight: bold;
+}
+.sugerencias-parte-dos .sug-users{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.sug-users img{
+    width: 50px;
+    height: 50px;
+    margin: 0 10px 0 0;
+}
+.sug-users .sug-user-info span{
+    margin: 0;
+    font-size: 13px;
+    color: #800f2f;
+}
+.sug-users .sug-user-info .sug-follow{
+    margin: 0;
+    font-size: 12px;
+    color: #800f2f;
+}
+.sug-users a{
+    font-size: 12px;
+    text-decoration: none;
+    color: #c9184a;
+    font-weight: bold;
+}
+
+
