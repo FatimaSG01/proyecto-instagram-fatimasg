@@ -1,0 +1,16 @@
+Lo que me gusto más del módulo fue la fácil comunicación con los senseis, no habia ningún problema en decir
+que no habias entendido algo y ellos se regresaban a explicar el tema.
+
+Lo que menos me gusto sería la duración del módulo porque senti que habia casos con los comandos en css que
+no vimos en clase, por lo que hubiera sido genial que se tuviera una base para poder investigar y luego ejecutar
+con más idea.
+
+Lo que más se me facilito creo que sería la parte de html, porque al hacer el código no tuve muchas fallas
+y podía entender casi siempre el orden de las etiquetas.
+
+Lo que más se me dificulto fue grid y flexbox en css, porque a pesar de que nos explicaran para que sirve
+cada uno, aún asi era un caso a parte.
+
+*Bonus track* Siento que hubiera sido algo más útil hacer el clon de una página web más complicada que llevará
+muchas cosas para que así tuvieramos una guía más estable. En mi caso me ví más de 15 tutoriales solo para
+hacer el menú estático y aún asi me sentia insegura con lo que ponía en mi hoja de estilo.
