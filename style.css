@@ -15,8 +15,9 @@ ul{
     height: 100%;
     line-height: 50px;
     border:solid;
-    border-color: #fff0f3;
+    border-color: #ff5d8f;
     border-width: 0px 1px 0px 0px;
+    
 }
 .funciones-menu i{
     font-size: 25px;
@@ -26,13 +27,36 @@ ul{
     width: 30px;
     height: 30px;
 }
+.funciones-menu .menu-link:hover{
+    background-color: #ffa6c1;
+    transition: 0.5s;
+}
+.funciones-menu .menu-link{
+    padding: 8px 8px;
+}
+.funciones-menu .profile-image:hover{
+    background-color: #ffa6c1;
+    transition: 0.5s;
+}
+.funciones-menu .profile-image{
+    padding: 8px 8px 2px;
+}
 
 .logo-instagram{
-    line-height: 70px;
+    line-height: 80px;
+    
 }
 .logo-instagram i{
-    font-size: 30px;
+    font-size: 35px;
     color: #ff0a54;
+    
+}
+.logo-instagram .menu-link:hover{
+    background-color: #ffa6c1;
+    transition: 0.5s;
+}
+.logo-instagram .menu-link{
+    padding: 8px 8px;
 }
 .stories{
     width: 100%;
@@ -53,10 +77,9 @@ ul{
     width: 65px;
     height: 65px;
     border-width: 2px;
-    border-style: solid;
     border-radius: 56px;
     border-color: #ff5d8f;
-
+    border-style: solid;
 }
 .post{
     margin: 0 190px;
@@ -105,6 +128,20 @@ ul{
 .parte-tres i{
     font-size: 25px;
     color: #ff0a54;
+}
+.parte-tres .iconos-left .icono-post:hover{
+    background-color: #ffa6c1;
+    transition: 0.5s;
+}
+.parte-tres .iconos-left .icono-post{
+    padding: 4px 4px;
+}
+.parte-tres .icono-save:hover{
+    background-color: #ffa6c1;
+    transition: 0.5s;
+}
+.parte-tres .icono-save{
+    padding: 4px 4px;
 }
 span{
     font-weight: bold;
